@@ -1,3 +1,7 @@
+# @Author: ashleyalmeida
+# @Date:   10-2018
+
+# A simple method
 
 puts "Enter your name: "
 name = gets.chomp()

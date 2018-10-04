@@ -1,3 +1,7 @@
+# @Author: ashleyalmeida
+# @Date:   10-2018
+
+# A simple If Else Ladder
 
 isFemale = true
 isTall = true

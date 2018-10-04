@@ -1,3 +1,8 @@
+# @Author: ashleyalmeida
+# @Date:   10-2018
+
+# A simple weekday calendar
+
 puts "Please enter an abrivation of the week."
 day = gets.chomp()
 

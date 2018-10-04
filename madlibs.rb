@@ -1,3 +1,7 @@
+# @Author: ashleyalmeida
+# @Date:   10-2018
+
+# A simple Mad-Libs Program
 
 puts "Enter a color: "
 color = gets.chomp()

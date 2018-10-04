@@ -1,3 +1,7 @@
+# @Author: ashleyalmeida
+# @Date:   10-2018
+
+# A simple calculator program
 
 puts "Enter first number: "
 num1 = gets.chomp().to_f

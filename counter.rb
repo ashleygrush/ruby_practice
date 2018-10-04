@@ -1,3 +1,7 @@
+# @Author: ashleyalmeida
+# @Date:   10-2018
+
+# A simple counter
 
 def max(num1, num2, num3)
   if num1 >= num2 and num1 >= num3
