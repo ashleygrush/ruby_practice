@@ -1,7 +1,7 @@
 # @Author: ashleyalmeida
 # @Date:   10-2018
 
-# demonstraits module (stores methods)
+# demonstraits a simple module (stores methods)
 
 module Tools
   def sayhi(name)
@@ -12,6 +12,7 @@ module Tools
   end
 end
 
+# implements Tool's Module
 include Tools
 
 Tools.sayhi("Ashley")
