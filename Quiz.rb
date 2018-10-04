@@ -1,6 +1,8 @@
 # @Author: ashleyalmeida
 # @Date:   10-2018
 
+# A simple quiz program
+
 class Question
 
   attr_accessor = :prompt, :answer
@@ -33,7 +35,7 @@ def run_test(questions)
       score += 1
     end
   end
-  puts ("You got " + score.to_s + " / " + questions.length().to_s)
+  puts ("You got " + score.to_s + "/" + questions.length().to_s)
 end
 
 run_test(questions)
